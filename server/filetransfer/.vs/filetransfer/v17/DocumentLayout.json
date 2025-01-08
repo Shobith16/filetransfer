@@ -1,13 +1,28 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Programs\\filetransfer\\server\\filetransfer\\",
+  "WorkspaceRootPath": "C:\\Programs\\Flutter2\\filetransfer\\server\\filetransfer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D70DF68-0F6F-4A09-8EA7-AE7827359DE2}|filetransfer.csproj|c:\\programs\\filetransfer\\server\\filetransfer\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D70DF68-0F6F-4A09-8EA7-AE7827359DE2}|filetransfer.csproj|solutionrelative:controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D70DF68-0F6F-4A09-8EA7-AE7827359DE2}|filetransfer.csproj|c:\\programs\\flutter2\\filetransfer\\server\\filetransfer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D70DF68-0F6F-4A09-8EA7-AE7827359DE2}|filetransfer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{365CF87D-1E14-49F6-B850-ACDA17DD5D53}|..\\filetransferDL\\filetransferDL.csproj|c:\\programs\\filetransfer\\server\\filetransferdl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D70DF68-0F6F-4A09-8EA7-AE7827359DE2}|filetransfer.csproj|c:\\programs\\flutter2\\filetransfer\\server\\filetransfer\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D70DF68-0F6F-4A09-8EA7-AE7827359DE2}|filetransfer.csproj|solutionrelative:controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365CF87D-1E14-49F6-B850-ACDA17DD5D53}|..\\filetransferDL\\filetransferBO.csproj|c:\\programs\\flutter2\\filetransfer\\server\\filetransferdl\\models\\filemetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D70DF68-0F6F-4A09-8EA7-AE7827359DE2}|filetransfer.csproj|c:\\programs\\flutter2\\filetransfer\\server\\filetransfer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2D70DF68-0F6F-4A09-8EA7-AE7827359DE2}|filetransfer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D70DF68-0F6F-4A09-8EA7-AE7827359DE2}|filetransfer.csproj|c:\\programs\\flutter2\\filetransfer\\server\\filetransfer\\filetransfer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D70DF68-0F6F-4A09-8EA7-AE7827359DE2}|filetransfer.csproj|solutionrelative:filetransfer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365CF87D-1E14-49F6-B850-ACDA17DD5D53}|..\\filetransferDL\\filetransferBO.csproj|c:\\programs\\flutter2\\filetransfer\\server\\filetransferdl\\filetransferbo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,7 +32,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,28 +40,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "filecontroller.cs",
-              "DocumentMoniker": "C:\\Programs\\filetransfer\\server\\filetransfer\\Controllers\\filecontroller.cs",
-              "RelativeDocumentMoniker": "Controllers\\filecontroller.cs",
-              "ToolTip": "C:\\Programs\\filetransfer\\server\\filetransfer\\Controllers\\filecontroller.cs",
-              "RelativeToolTip": "Controllers\\filecontroller.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "filetransfer",
+              "DocumentMoniker": "C:\\Programs\\Flutter2\\filetransfer\\server\\filetransfer\\filetransfer.csproj",
+              "RelativeDocumentMoniker": "filetransfer.csproj",
+              "ToolTip": "C:\\Programs\\Flutter2\\filetransfer\\server\\filetransfer\\filetransfer.csproj",
+              "RelativeToolTip": "filetransfer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T12:05:55.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "filetransferBO",
+              "DocumentMoniker": "C:\\Programs\\Flutter2\\filetransfer\\server\\filetransferDL\\filetransferBO.csproj",
+              "RelativeDocumentMoniker": "..\\filetransferDL\\filetransferBO.csproj",
+              "ToolTip": "C:\\Programs\\Flutter2\\filetransfer\\server\\filetransferDL\\filetransferBO.csproj",
+              "RelativeToolTip": "..\\filetransferDL\\filetransferBO.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T12:05:45.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileMetadata.cs",
+              "DocumentMoniker": "C:\\Programs\\Flutter2\\filetransfer\\server\\filetransferDL\\Models\\FileMetadata.cs",
+              "RelativeDocumentMoniker": "..\\filetransferDL\\Models\\FileMetadata.cs",
+              "ToolTip": "C:\\Programs\\Flutter2\\filetransfer\\server\\filetransferDL\\Models\\FileMetadata.cs",
+              "RelativeToolTip": "..\\filetransferDL\\Models\\FileMetadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T10:34:01.047Z",
+              "WhenOpened": "2025-01-08T12:05:22.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programs\\Flutter2\\filetransfer\\server\\filetransfer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Programs\\Flutter2\\filetransfer\\server\\filetransfer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T11:38:57.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Programs\\Flutter2\\filetransfer\\server\\filetransfer\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Programs\\Flutter2\\filetransfer\\server\\filetransfer\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T11:37:01.964Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Programs\\filetransfer\\server\\filetransferDL\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\filetransferDL\\Class1.cs",
-              "ToolTip": "C:\\Programs\\filetransfer\\server\\filetransferDL\\Class1.cs",
-              "RelativeToolTip": "..\\filetransferDL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Programs\\Flutter2\\filetransfer\\server\\filetransfer\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Programs\\Flutter2\\filetransfer\\server\\filetransfer\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "Controllers\\FilesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T10:32:49.26Z",
+              "WhenOpened": "2025-01-08T11:35:30.741Z",
               "EditorCaption": ""
             }
           ]

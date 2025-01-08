@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "qVQyibt6mp2TdWzDXZAjhitjDNLD2W+qsHEHYrYnkXU=",
+  "Source": "filetransfer",
+  "BasePath": "_content/filetransfer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

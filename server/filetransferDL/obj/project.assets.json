@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programs\\filetransfer\\server\\filetransferDL\\filetransferDL.csproj",
-      "projectName": "filetransferDL",
-      "projectPath": "C:\\Programs\\filetransfer\\server\\filetransferDL\\filetransferDL.csproj",
+      "projectUniqueName": "C:\\Programs\\Flutter2\\filetransfer\\server\\filetransferDL\\filetransferBO.csproj",
+      "projectName": "filetransferBO",
+      "projectPath": "C:\\Programs\\Flutter2\\filetransfer\\server\\filetransferDL\\filetransferBO.csproj",
       "packagesPath": "C:\\Users\\Shobith\\.nuget\\packages\\",
-      "outputPath": "C:\\Programs\\filetransfer\\server\\filetransferDL\\obj\\",
+      "outputPath": "C:\\Programs\\Flutter2\\filetransfer\\server\\filetransferDL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

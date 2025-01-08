@@ -1,0 +1,12 @@
+C:\Programs\Flutter2\filetransfer\server\filetransferDL\bin\Debug\net8.0\filetransferBO.deps.json
+C:\Programs\Flutter2\filetransfer\server\filetransferDL\bin\Debug\net8.0\filetransferBO.dll
+C:\Programs\Flutter2\filetransfer\server\filetransferDL\bin\Debug\net8.0\filetransferBO.pdb
+C:\Programs\Flutter2\filetransfer\server\filetransferDL\obj\Debug\net8.0\filetransferBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\Flutter2\filetransfer\server\filetransferDL\obj\Debug\net8.0\filetransferBO.AssemblyInfoInputs.cache
+C:\Programs\Flutter2\filetransfer\server\filetransferDL\obj\Debug\net8.0\filetransferBO.AssemblyInfo.cs
+C:\Programs\Flutter2\filetransfer\server\filetransferDL\obj\Debug\net8.0\filetransferBO.csproj.CoreCompileInputs.cache
+C:\Programs\Flutter2\filetransfer\server\filetransferDL\obj\Debug\net8.0\filetransferBO.sourcelink.json
+C:\Programs\Flutter2\filetransfer\server\filetransferDL\obj\Debug\net8.0\filetransferBO.dll
+C:\Programs\Flutter2\filetransfer\server\filetransferDL\obj\Debug\net8.0\refint\filetransferBO.dll
+C:\Programs\Flutter2\filetransfer\server\filetransferDL\obj\Debug\net8.0\filetransferBO.pdb
+C:\Programs\Flutter2\filetransfer\server\filetransferDL\obj\Debug\net8.0\ref\filetransferBO.dll
