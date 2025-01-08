@@ -1,0 +1,6 @@
+@filetransfer_HostAddress = http://localhost:5128
+
+GET {{filetransfer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

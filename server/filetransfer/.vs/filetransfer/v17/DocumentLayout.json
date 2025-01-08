@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programs\\filetransfer\\server\\filetransfer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D70DF68-0F6F-4A09-8EA7-AE7827359DE2}|filetransfer.csproj|c:\\programs\\filetransfer\\server\\filetransfer\\controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D70DF68-0F6F-4A09-8EA7-AE7827359DE2}|filetransfer.csproj|solutionrelative:controllers\\filecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365CF87D-1E14-49F6-B850-ACDA17DD5D53}|..\\filetransferDL\\filetransferDL.csproj|c:\\programs\\filetransfer\\server\\filetransferdl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:376793174:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "filecontroller.cs",
+              "DocumentMoniker": "C:\\Programs\\filetransfer\\server\\filetransfer\\Controllers\\filecontroller.cs",
+              "RelativeDocumentMoniker": "Controllers\\filecontroller.cs",
+              "ToolTip": "C:\\Programs\\filetransfer\\server\\filetransfer\\Controllers\\filecontroller.cs",
+              "RelativeToolTip": "Controllers\\filecontroller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:34:01.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Programs\\filetransfer\\server\\filetransferDL\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\filetransferDL\\Class1.cs",
+              "ToolTip": "C:\\Programs\\filetransfer\\server\\filetransferDL\\Class1.cs",
+              "RelativeToolTip": "..\\filetransferDL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T10:32:49.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
